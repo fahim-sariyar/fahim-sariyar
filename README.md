@@ -1,5 +1,5 @@
 ![logo](https://github.com/fahim-sariyar/fahim-sariyar/blob/main/GITHUB%20PICTURE.png)
-<h1 align="center">Hi 👋, I'm Fahim Sariyar Shovon</h1>
+<h1 align="center">Hi,I'm Fahim Sariyar Shovon</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
 - 🔭 I’m currently **studding**
