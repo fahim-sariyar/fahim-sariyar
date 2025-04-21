@@ -4,7 +4,7 @@
 <h3 align="left">💫 About Me: </h3>
 - 🌱 I’m currently learning Data Structures and Algorithms.<h3 align="left"></h3>
 - 💬 Ask me about C/C++/DSA<h3 align="left"></h3>
--📫 How to reach me fahim.k4.it@gmail.com<h3 align="left"></h3>
+-📫 How to reach me fahim.k4.it@gmail.com <h3 align="left"></h3>
 - 👨‍💻 All of my projects are available at [https://github.com/fahim-sariyar/Bank-Management-System](https://github.com/fahim-sariyar/Bank-Management-System)
 
 <h3 align="left">🌐 Socials:</h3>
