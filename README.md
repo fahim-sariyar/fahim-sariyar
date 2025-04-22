@@ -4,8 +4,9 @@
 <h3 align="left">💫 About Me: </h3>
 - 🌱 I’m currently learning Data Structures and Algorithms.<h3 align="left"></h3>
 - 💬 Ask me about C/C++/DSA<h3 align="left"></h3>
+- 📑 Donload  My Resume <a href="https://docs.google.com/document/d/1cOM5HaObMZH_tmNw_7Z9P5WyMrU5kUPO/edit"</a>
 -📫 How to reach me fahim.k4.it@gmail.com <h3 align="left"></h3>
-- 👨‍💻 All of my projects are available at [https://github.com/fahim-sariyar/Bank-Management-System](https://github.com/fahim-sariyar/Bank-Management-System)
+- 👨‍💻 All of my projects are available at<a href="[https://github.com/fahim-sariyar/Bank-Management-System](https://github.com/fahim-sariyar/Bank-Management-System)"</a>
 
 <h3 align="left">🌐 Socials:</h3>
 <h3 align="left"> </h3>
@@ -21,6 +22,7 @@
 <h3 align="left"></h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <h3 align="left"></h3>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahim-sariyar&show_icons=true&locale=en&layout=compact" alt="fahim-sariyar" /></p>
 <h3 align="left"></h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-sariyar&" alt="fahim-sariyar" /></p>
