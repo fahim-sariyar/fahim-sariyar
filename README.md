@@ -12,7 +12,7 @@
 ## 👨‍💻 About Me
 - 🎓 **CSE Undergraduate** at **BUBT**
 - 🌱 Currently learning **Data Structures & Algorithms**
-- 💬 Ask me about **C, C++, OOP, DSA**
+- 💬 Ask me about **C, C++, OOP, DSA , py , Java**
 - 🚀 Interested in **Software Development & Competitive Programming**
 - 📫 Email: **fahim.k4.it@gmail.com**
 
