@@ -1,75 +1,64 @@
-<!-- ===== HERO SECTION ===== -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=36&pause=1000&color=0A3D62&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Fahim+Sariyar+Shovon;C+%7C+C%2B%2B+%7C+DSA+Learner;Future+Software+Engineer" />
-</h1>
+<div align="center">
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380" />
-</p>
+<!-- 🎬 HERO — video intro + name -->
+<img src="./hero.svg?v=1" alt="Hi, I'm Megha Mittal — Frontend Developer" width="100%"/>
 
----
+<br/><br/>
 
-## 👨‍💻 About Me
-- 🎓 **CSE Undergraduate** at **BUBT**
-- 🌱 Currently learning **Data Structures & Algorithms**
-- 💬 Ask me about **C, C++, OOP, DSA , PY , Java**
-- 🚀 Interested in **Software Development & Competitive Programming**
-- 📫 Email: **fahim.k4.it@gmail.com**
+<!-- 👩‍💻 LEFT: what I build   •   🏃 RIGHT: life outside code -->
+<img src="./about-life.svg?v=1" alt="What I build, and life beyond the code" width="100%"/>
 
----
+<br/><br/>
 
-## 🔗 Connect With Me
-<p align="left">
-  <a href="https://linkedin.com/in/fahim_sariyar_shovon" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="35"/>
-  </a>
-  <a href="https://fb.com/fahim_sariyar_shovon" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="35"/>
-  </a>
-  <a href="https://www.hackerrank.com/fahim" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="35"/>
-  </a>
-  <a href="https://codeforces.com/profile/fahim2004" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" width="35"/>
-  </a>
-</p>
+<!-- ⚛️ TECH STACK -->
+<img src="./stack.svg?v=1" alt="Tech stack" width="100%"/>
 
----
+<br/><br/>
 
-## 🛠 Languages & Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,mysql,postgresql,linux,git,github,react" />
-</p>
+<!-- 🪪 DEVELOPER ID + DASHBOARD -->
+<img src="./id-dashboard.svg?v=1" alt="Developer ID and dashboard" width="100%"/>
 
----
+<br/><br/>
 
-## 📂 Featured Projects
-🔹 **Bank Management System**  
-👉 Console‑based system using **C++ & OOP concepts**  
-🔗 https://github.com/fahim-sariyar/Bank-Management-System
+</div>
 
----
+## 🎌 Featured builds
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahim-sariyar&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fahim-sariyar&layout=compact&theme=tokyonight" height="160"/>
-</p>
+| Project | What it is | Stack | Stars |
+|:---|:---|:---|:---:|
+| [**Emotional Deairy**](https://github.com/fahim-sariyar/Emotional_Dairy) | Awwwards-style scroll experience with a thunder-crack transformation | `HTML` `CSS` `JS` `GSAP` | ⭐ 25 |
+| [**Zoro — King of Hell**]() | Cinematic character landing page | `HTML` `CSS` `JS` | ⭐ 9 |
+| [**Demon Slayer — Yoriichi & Kokushibo**](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | Split-screen duel storytelling | `HTML` `CSS` `JS` | ⭐ 8 |
+| [**JJK — Sukuna**](https://github.com/Meghamittal0920/JJK-Sakuna) | Motion-heavy fan experience | `HTML` `CSS` `JS` | ⭐ 8 |
+| [**One Piece 3D Website**](https://github.com/Meghamittal0920/One-Piece-3D-Website) | 3D web experience | `TypeScript` `Three.js` | ⭐ 2 |
+| [**Impact**](https://github.com/Meghamittal0920/Imapact) | Responsive landing build | `HTML` `CSS` | ⭐ 2 |
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fahim-sariyar&theme=tokyonight"/>
-</p>
+<div align="center">
 
----
+<br/>
 
-## 🏆 Competitive Programming
-- ⭐ HackerRank (C / C++)
-- 🔥 Codeforces (Active Learner)
-- 🧠 Focus: **Problem Solving & Algorithms**
+## 🌃 My contribution city
 
----
+*Every commit builds another tower — rebuilt automatically every day.*
 
-## ✨ Quote
-> *“First solve the problem, then write the code.”* – John Johnson
+<img src="./profile-3d-contrib/profile-night-view.svg" alt="3D contribution city" width="100%"/>
 
+<br/><br/>
 
+<!-- 💌 LET'S CONNECT -->
+<img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
+
+<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
+<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
+<a href="https://www.instagram.com/meghamittal92000"><img src="https://img.shields.io/badge/Instagram-a78bfa?style=for-the-badge&logo=instagram&logoColor=0d0e16" alt="Instagram"/></a>
+<a href="https://www.threads.net/@meghamittal92000"><img src="https://img.shields.io/badge/Threads-34d399?style=for-the-badge&logo=threads&logoColor=0d0e16" alt="Threads"/></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Meghamittal0920&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile views"/>
+
+<br/>
+
+**Always learning, always building.** 💜
+
+</div>
