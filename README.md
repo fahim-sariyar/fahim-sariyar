@@ -48,10 +48,10 @@
 <!-- 💌 LET'S CONNECT -->
 <img src="./connect.svg?v=1" alt="Let's connect" width="100%"/>
 
-<a href="https://github.com/Meghamittal0920"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
-<a href="mailto:meghamittal563@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
-<a href="https://www.instagram.com/meghamittal92000"><img src="https://img.shields.io/badge/Instagram-a78bfa?style=for-the-badge&logo=instagram&logoColor=0d0e16" alt="Instagram"/></a>
-<a href="https://www.threads.net/@meghamittal92000"><img src="https://img.shields.io/badge/Threads-34d399?style=for-the-badge&logo=threads&logoColor=0d0e16" alt="Threads"/></a>
+<a href="https://github.com/fahim-sariyar"><img src="https://img.shields.io/badge/GitHub-22d3ee?style=for-the-badge&logo=github&logoColor=0d0e16" alt="GitHub"/></a>
+<a href="mailto:fahim.k4.it@gmail.com"><img src="https://img.shields.io/badge/Email-f472b6?style=for-the-badge&logo=gmail&logoColor=0d0e16" alt="Email"/></a>
+<a href="https://www.instagram.com/fahim.sariyar"><img src="https://img.shields.io/badge/Instagram-a78bfa?style=for-the-badge&logo=instagram&logoColor=0d0e16" alt="Instagram"/></a>
+<a href=""><img src="https://img.shields.io/badge/Threads-34d399?style=for-the-badge&logo=threads&logoColor=0d0e16" alt="Threads"/></a>
 
 <br/><br/>
 
