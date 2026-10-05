@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 740" width="1280" height="740" role="img" aria-label="Megha Mittal - Frontend Developer">
-<title>Megha Mittal — Frontend Developer</title>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 1280 740" width="1280" height="740" role="img" aria-label="Fahim Mittal - Frontend Developer">
+<title>Fahim Mittal — Frontend Developer</title>
 <defs>
 <style type="text/css"><![CDATA[
 text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
@@ -104,13 +104,13 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 
 <!-- ================= LEFT: CONTENT ================= -->
 <!-- Terminal prompt -->
-<text clip-path="url(#cPrompt)" x="48" y="69" font-size="14"><tspan fill="#1a7f37" font-weight="bold">megha@frontend-developer</tspan><tspan fill="#6e7781">:~$ </tspan><tspan fill="#1f2328">cat </tspan><tspan fill="#c026d3">README.md</tspan></text>
+<text clip-path="url(#cPrompt)" x="48" y="69" font-size="14"><tspan fill="#1a7f37" font-weight="bold">Fahim@frontend-developer</tspan><tspan fill="#6e7781">:~$ </tspan><tspan fill="#1f2328">cat </tspan><tspan fill="#c026d3">README.md</tspan></text>
 <rect x="454" y="56" width="8" height="16" fill="#1a7f37" opacity="0"><animate attributeName="opacity" values="1;0" dur="1s" repeatCount="indefinite" begin="1.35s"/></rect>
 
 <!-- Hi, I'm -->
 <text clip-path="url(#cHi)" x="48" y="114" font-size="24" font-weight="bold" fill="#1f2328">Hi, I'm 👋</text>
 
-<!-- Name: Megha Mittal (Pacifico outlines, per-letter pop, animated gradient) -->
+<!-- Name: Fahim Mittal (Pacifico outlines, per-letter pop, animated gradient) -->
 <g transform="translate(48,196)" fill="url(#nameg)" filter="url(#glow)">
       <g class="ltr" style="animation-delay:1.60s"><path transform="translate(0.0,0) scale(0.05200,-0.05200)" d="M163 74Q163 105 169.5 153.5Q176 202 191 287Q217 444 232 559Q241 631 241 679Q241 724 208 724Q182 724 145.5 697.5Q109 671 65 613Q51 594 34 594Q20 594 9.5 607.5Q-1 621 -1 638Q-1 654 5.5 670.5Q12 687 27 708Q75 775 134.0 811.5Q193 848 252 848Q307 848 336.5 813.0Q366 778 366 711Q366 684 361.0 647.5Q356 611 352.0 588.0Q348 565 346 556Q403 719 474.0 783.5Q545 848 630 848Q695 848 732.5 802.0Q770 756 770 672Q770 639 761 590Q811 728 878.0 788.0Q945 848 1032 848Q1102 848 1139.5 803.0Q1177 758 1177 677Q1177 633 1164 570L1103 284Q1093 234 1093 198Q1093 156 1112.5 135.0Q1132 114 1167 114Q1200 114 1231.5 136.0Q1263 158 1306 209Q1318 223 1333 223Q1346 223 1353.5 211.0Q1361 199 1361 178Q1361 139 1342 116Q1290 53 1239.0 24.0Q1188 -5 1132 -5Q1047 -5 999.0 45.5Q951 96 951 181Q951 240 975 352L1015 535Q1017 544 1022.0 567.0Q1027 590 1030.0 610.5Q1033 631 1033 651Q1033 686 1019.5 703.5Q1006 721 981 721Q934 721 882.5 660.5Q831 600 784.5 460.0Q738 320 709 96Q702 36 684.5 15.5Q667 -5 628 -5Q594 -5 578.5 11.0Q563 27 563 71Q563 112 574.0 178.5Q585 245 602 335Q648 577 648 647Q648 685 633.5 703.0Q619 721 590 721Q541 721 489.0 665.5Q437 610 387.5 468.5Q338 327 305 86Q298 35 284.5 15.0Q271 -5 232 -5Q195 -5 179.0 11.5Q163 28 163 74Z"/></g>
       <g class="ltr" style="animation-delay:1.69s"><path transform="translate(64.1,0) scale(0.05200,-0.05200)" d="M522 178Q522 138 503 116Q466 71 398.5 33.0Q331 -5 254 -5Q149 -5 91.0 52.0Q33 109 33 208Q33 277 62.0 336.5Q91 396 142.5 431.0Q194 466 259 466Q317 466 352.0 431.5Q387 397 387 338Q387 269 337.5 219.5Q288 170 170 141Q195 95 265 95Q310 95 367.5 126.5Q425 158 467 209Q479 223 494 223Q507 223 514.5 211.0Q522 199 522 178ZM154 221V219Q213 233 247.0 261.0Q281 289 281 326Q281 345 270.5 356.5Q260 368 242 368Q205 368 179.5 325.0Q154 282 154 221Z"/></g>
@@ -230,11 +230,11 @@ text{font-family:'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace}
 </line>
 <g class="soc" style="animation:fadeIn .5s ease 7.4s forwards">
   <g transform="translate(48,692) scale(.8)"><path d="M12 0c-6.626 0-12 5.373-12 12 0 5.302 3.438 9.8 8.207 11.387.599.111.793-.261.793-.577v-2.234c-3.338.726-4.033-1.416-4.033-1.416-.546-1.387-1.333-1.756-1.333-1.756-1.089-.745.083-.729.083-.729 1.205.084 1.839 1.237 1.839 1.237 1.07 1.834 2.807 1.304 3.492.997.107-.775.418-1.305.762-1.604-2.665-.305-5.467-1.334-5.467-5.931 0-1.311.469-2.381 1.236-3.221-.124-.303-.535-1.524.117-3.176 0 0 1.008-.322 3.301 1.23.957-.266 1.983-.399 3.003-.404 1.02.005 2.047.138 3.006.404 2.291-1.552 3.297-1.23 3.297-1.23.653 1.653.242 2.874.118 3.176.77.84 1.235 1.911 1.235 3.221 0 4.609-2.807 5.624-5.479 5.921.43.372.823 1.102.823 2.222v3.293c0 .319.192.694.801.576 4.765-1.589 8.199-6.086 8.199-11.386 0-6.627-5.373-12-12-12z" fill="#30363d"/></g>
-  <text x="74" y="707" font-size="12.5" fill="#30363d">Meghamittal0920</text>
+  <text x="74" y="707" font-size="12.5" fill="#30363d">Fahimmittal0920</text>
   <g transform="translate(214,693) scale(.8)"><rect x="1" y="3" width="22" height="17" rx="3.5" fill="none" stroke="#db2777" stroke-width="2"/><path d="M2.5 5.5 12 13l9.5-7.5" fill="none" stroke="#db2777" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></g>
-  <text x="240" y="707" font-size="12.5" fill="#30363d">meghamittal563@gmail.com</text>
+  <text x="240" y="707" font-size="12.5" fill="#30363d">Fahimmittal563@gmail.com</text>
   <g transform="translate(452,692) scale(.8)"><rect width="24" height="24" rx="6" fill="none" stroke="#c026d3" stroke-width="2"/><circle cx="12" cy="12" r="4.6" fill="none" stroke="#c026d3" stroke-width="2"/><circle cx="18.2" cy="5.8" r="1.5" fill="#c026d3"/></g>
-  <text x="478" y="707" font-size="12.5" fill="#30363d">meghamittal92000</text>
+  <text x="478" y="707" font-size="12.5" fill="#30363d">Fahimmittal92000</text>
 </g>
 <text class="soc" x="1232" y="707" text-anchor="end" font-size="13" style="animation:fadeIn .5s ease 7.6s forwards"><tspan fill="#6e7781">“</tspan><tspan fill="#d946ef">Code is my art, Logic is my superpower.</tspan><tspan fill="#6e7781">” </tspan><tspan fill="#db2777">❤</tspan></text>
 <text class="soc" x="700" y="707" font-size="11.5" style="animation:fadeIn .5s ease 7.5s forwards"><tspan fill="#28c840">●</tspan><tspan fill="#6e7781"> open to collaborate</tspan></text>
