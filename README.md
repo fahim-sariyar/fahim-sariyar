@@ -28,10 +28,10 @@
 |:---|:---|:---|:---:|
 | [**Emotional Deairy**](https://github.com/fahim-sariyar/Emotional_Dairy) | Awwwards-style scroll experience with a thunder-crack transformation | `HTML` `CSS` `JS` `GSAP` | ⭐ 25 |
 | [**Zoro — King of Hell**]() | Cinematic character landing page | `HTML` `CSS` `JS` | ⭐ 9 |
-| [**Demon Slayer — Yoriichi & Kokushibo**](https://github.com/Meghamittal0920/Demon-Slayer-Yorichi-Kokoshibo-) | Split-screen duel storytelling | `HTML` `CSS` `JS` | ⭐ 8 |
-| [**JJK — Sukuna**](https://github.com/Meghamittal0920/JJK-Sakuna) | Motion-heavy fan experience | `HTML` `CSS` `JS` | ⭐ 8 |
-| [**One Piece 3D Website**](https://github.com/Meghamittal0920/One-Piece-3D-Website) | 3D web experience | `TypeScript` `Three.js` | ⭐ 2 |
-| [**Impact**](https://github.com/Meghamittal0920/Imapact) | Responsive landing build | `HTML` `CSS` | ⭐ 2 |
+| [**Demon Slayer — Yoriichi & Kokushibo**]() | Split-screen duel storytelling | `HTML` `CSS` `JS` | ⭐ 8 |
+| [**JJK — Sukuna**]() | Motion-heavy fan experience | `HTML` `CSS` `JS` | ⭐ 8 |
+| [**One Piece 3D Website**]() | 3D web experience | `TypeScript` `Three.js` | ⭐ 2 |
+| [**Impact**]() | Responsive landing build | `HTML` `CSS` | ⭐ 2 |
 
 <div align="center">
 
